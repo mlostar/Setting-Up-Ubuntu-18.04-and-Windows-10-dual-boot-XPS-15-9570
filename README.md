@@ -44,7 +44,7 @@ That's it!
   10. Choose option 4.Enable Safe Mode
   11. Search for 'Device Manager' in your search box.
   12. Check that your "ATA/ATAPI Controller" is a SATA AHCI Controller.
-## Managing partitons your Windows partition
+## Managing your Windows partition
   1. Search for "Create and format hard disk partitions" in your search box.
   2. Find "(C:)" in your partitions
   3. Right click and "Shrink Volume"
